@@ -1,3 +1,4 @@
+import os
 
 from requests import request
 from sklearn.preprocessing import StandardScaler
